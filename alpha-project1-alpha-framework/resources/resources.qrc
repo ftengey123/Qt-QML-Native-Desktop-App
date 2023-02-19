@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="background">
+    <file>background-image2.jpg</file>
+    <file>background-image3.jpg</file>
+    <file>background-image4.jpg</file>
+    <file>background-image.jpg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>brandmark-design.png</file>
+    <file>alpha-logo.png</file>
+    <file>basic.png</file>
+  </qresource>
+</RCC>
